@@ -1,6 +1,6 @@
-div,p,h3 {
-background-color: rgb(196, 210, 235);
+.red{
+    background-color: yellow;
 }
-span{
-    background-color: rgb(243, 158, 175);
+#firstdiv{
+color: crimson;
 }
